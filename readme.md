@@ -56,7 +56,7 @@ That means around 28% of all Family/Divorce/Custody/Adoption questions were unan
 <b>The Fine Tuned Image:</b>
 <br />
 
-Here is a link to a very customizable shiny: (link to localhost). This will allow at the state level to see which categories are being not answered most frequently, and building upon that information allow them to allocate resources appropriately.
+Here is a link to a very customizable shiny: [Alluvial-By-State-By-Category-Answered-vs-Unanswered](https://n-aggarwal.shinyapps.io/Alluvial-By-State-By-Category-Answered-vs-Unanswered/). This will allow at the state level to see which categories are being not answered most frequently, and building upon that information allow them to allocate resources appropriately.
 
 # Distribution of Time Spent on Questions
 
@@ -76,6 +76,8 @@ This goes back to the unanswered questions by state. The maps below show the num
 <img src="attorney-per-client.png" alt= "Distribution of True Time" width="700" height="400">
 <img src="proportion-of-answered-questions.png" alt= "Distribution of True Time" width="700" height="400">
 
+Interactive Versions: [Graph 1](https://public.tableau.com/app/profile/ahmad.khalfan.alqemzi/viz/Datafest2/Sheet2) and
+[Graph 2](https://public.tableau.com/app/profile/ahmad.khalfan.alqemzi/viz/Datafest_16822636054530/Sheet13)
 <br />
 
 As you can see there is a (unsurprisingly) a clear (negative) correlation between the two: as the number of attorneys in a state decreases the number of unanswered questions increases. This is becasue if there are less attorneys in a state, then questions per attorney increases which can lead to one of two outcomes-- either the attorney's are not able to take on a huge chunk of the cases or they try to go through them very fast, and in that case may not be able to provide meaningfull feedback-- either way this is not a good outcome. A prime example of state that suffers from this problem is Georgia. More than 70% of questions go unanswered in Georgia and this is becasue it has some the highest cases per attorney- 100 for 1. So to make the services better in such states ABA needs to allocate more rescources and hire more attorneys to help people.
