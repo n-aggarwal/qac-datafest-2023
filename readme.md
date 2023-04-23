@@ -1,6 +1,6 @@
 # DATAFEST 2023
 
-This Document contains our findings for DataFest 2023. The datafest took place between April 21, 2023 and April 23, 2023 at Wesleyan University. The dataset used was provided by the American Bar Association.
+This repository contains our findings for DataFest 2023. The datafest took place between April 21, 2023 and April 23, 2023 at Wesleyan University. The dataset used was provided by the American Bar Association.
 <br />
 <br />
 The Research Question: The American Bar Association provides pro bono (i.e. free of charge) legal services across the
@@ -26,7 +26,7 @@ Our main focus in this presention is the <b>Efficency</b> and <b>Accessibility</
 
 <b>Unanswered Question by State:</b>
 
-![Unaswered Questions By State](unanswered_state.png)
+<img src="unanswered_state_2.png" alt= "Unanswered Questions By State" width="800" height="400">
 
 We found that certain certain states have a huge proportion of questions going unanswered. This means that more Resources need to be allocated in these states to cover the people's need. The states with the lowest response rate are: Pennsylvania, Georgia, Kansas, Arizona, Iowa, Indiana and California. All of These have a response rate of less than 50%.
 <br />
@@ -60,7 +60,7 @@ Here is a link to a very customizable shiny: (link to localhost). This will allo
 
 # Distribution of Time Spent on Questions
 
-<img src="distribution_case_time.png" alt= "Distribution of True Time" width="700" height="400">
+<img src="distribution_case_time_3.png" alt= "Distribution of True Time" width="700" height="400">
 <br />
 <br />
 
@@ -71,9 +71,11 @@ A very interesting thing to note about the distribution was the the difference i
 
 # Number of Lawyers by State
 
-This goes back to the unanswered questions by state. The maps below show the number of lawyers per state and the number of unanswered.
+This goes back to the unanswered questions by state. The maps below show the number of attorneys per client grouped by state and the number of unanswered questions.
 
-[Insert Ahmad's graph image here]
+<img src="attorney-per-client.png" alt= "Distribution of True Time" width="700" height="400">
+<img src="proportion-of-answered-questions.png" alt= "Distribution of True Time" width="700" height="400">
+
 <br />
 
-As you can see there is a (unsurprisingly) a clear (negative) correlation between the two: as the number of attorneys in a state decreases the number of unanswered questions increases. (Run corrrelation and/or regressioon and analysis). This is becasue if there are less attorneys in a state, then questions per attorney increases which can lead to one of two outcomes-- either the attorney's are not able to take on a huge chunk of the cases or they try to go through them very fast, and in that case may not be able to provide meaningfull feedback-- either way this is not a good outcome. A prime example of state that suffers from this problem is Georgia. More than 70% of questions go unanswered in Georgia and this is becasue it has some the highest cases per attorney- 100 for 1. So to make the services better in such states ABA needs to allocate more rescources and hire more attorneys to help people.
+As you can see there is a (unsurprisingly) a clear (negative) correlation between the two: as the number of attorneys in a state decreases the number of unanswered questions increases. This is becasue if there are less attorneys in a state, then questions per attorney increases which can lead to one of two outcomes-- either the attorney's are not able to take on a huge chunk of the cases or they try to go through them very fast, and in that case may not be able to provide meaningfull feedback-- either way this is not a good outcome. A prime example of state that suffers from this problem is Georgia. More than 70% of questions go unanswered in Georgia and this is becasue it has some the highest cases per attorney- 100 for 1. So to make the services better in such states ABA needs to allocate more rescources and hire more attorneys to help people.
