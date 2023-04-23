@@ -26,7 +26,7 @@ Our main focus in this presention is the <b>Efficency</b> and <b>Accessibility</
 
 <b>Unanswered Question by State:</b>
 
-<img src="unanswered_state_2.png" alt= "Unanswered Questions By State" width="800" height="400">
+<img src="resources/unanswered_state_2.png" alt= "Unanswered Questions By State" width="800" height="400">
 
 We found that certain certain states have a huge proportion of questions going unanswered. This means that more Resources need to be allocated in these states to cover the people's need. The states with the lowest response rate are: Pennsylvania, Georgia, Kansas, Arizona, Iowa, Indiana and California. All of These have a response rate of less than 50%.
 <br />
@@ -34,7 +34,7 @@ We found that certain certain states have a huge proportion of questions going u
 <b>Unanswered Question by Category: </b>
 <br />
 
-<img src="unanswered_category.png" alt= "Unanswered Questions By Category" width="700" height="400">
+<img src="resources/unanswered_category.png" alt= "Unanswered Questions By Category" width="700" height="400">
 <br />
 <br />
 26% of the questions that are not being answered are coming from 1 category: Family/Divorce/Custody/Adoption (about 8000 unanswered)
@@ -60,7 +60,7 @@ Here is a link to a very customizable shiny: [Alluvial-By-State-By-Category-Answ
 
 # Distribution of Time Spent on Questions
 
-<img src="distribution_case_time_3.png" alt= "Distribution of True Time" width="700" height="400">
+<img src="resources/distribution_case_time_3.png" alt= "Distribution of True Time" width="700" height="400">
 <br />
 <br />
 
@@ -73,8 +73,8 @@ A very interesting thing to note about the distribution was the the difference i
 
 This goes back to the unanswered questions by state. The maps below show the number of attorneys per client grouped by state and the number of unanswered questions.
 
-<img src="attorney-per-client.png" alt= "Distribution of True Time" width="700" height="400">
-<img src="proportion-of-answered-questions.png" alt= "Distribution of True Time" width="700" height="400">
+<img src="resources/attorney-per-client.png" alt= "Distribution of True Time" width="700" height="400">
+<img src="resources/proportion-of-answered-questions.png" alt= "Distribution of True Time" width="700" height="400">
 
 Interactive Versions: [Graph 1](https://public.tableau.com/app/profile/ahmad.khalfan.alqemzi/viz/Datafest2/Sheet2) and
 [Graph 2](https://public.tableau.com/app/profile/ahmad.khalfan.alqemzi/viz/Datafest_16822636054530/Sheet13)
