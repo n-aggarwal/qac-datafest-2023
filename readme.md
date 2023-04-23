@@ -12,7 +12,7 @@ better know how and when to recruit lawyers with specific expertise, and know ho
 state partners on general trends they’re seeing.
 <br />
 <br />
-Wrtten By: Nishant Aggarwal, Ayush Suri, Ahmad Alqemzi, Minji Woo, Evan Wacks, and Jake Gale.
+<b> Wrtten By: Nishant Aggarwal, Ayush Suri, Ahmad Alqemzi, Minji Woo, Evan Wacks, and Jake Gale. </b>
 
 # Overview
 
